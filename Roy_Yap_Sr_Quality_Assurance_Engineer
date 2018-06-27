@@ -1,0 +1,81 @@
+Roy Yap
+http://www.linkedin.com/in/royyap1
+
+SENIOR SOFTWARE TEST ENGINEER
+
+●	Solutions-focused professional with 12+ years' experience in manual and automated software testing, GUI testing (mobile, tablet and desktop) and software production support – current focus: Gherkin, Cucumber, BDD Automation testing, JS, cypress.io GUI automation testing, utilization of LEAN and Agile methodologies
+●	Experience using Open Source AutoIT program for rapid prototyping and development of customized software tools; Atlassian stack, HP Mercury's QTP testing and QC software suite; TOAD for oracle 9i, Altova's XML spy and a text data logger
+●	Excels in problem-solving where building strong systematic methodologies and finding innovative solutions is supported
+
+WORK EXPERIENCE
+
+Welltok Inc., Seattle WA	03/2016 - Present
+Senior Quality Assurance Engineer
+●	Cafewell Concierge Team: Testing Watson NLP with trained A.I. weights on Health Benefits Q&A, Natural Language Processing and overall integration with Cafewell SaaS and Concierge Mobile Application
+●	Cafewell & Rewards Team: Ensuring that all 4 microservices (Cafewell, Munero, Achievement Service, Currency) are in concert to receive a reward upon achieving, Mobile Application testing
+●	Technology used: Ruby on Rails, Selenium, Bi-Frost custom automation framework, GitHub, DataBricks, IBM Watson NLP / A.I., Semaphore CI
+
+Symetra Financial, Bellevue WA	11/2015 – 02/2016
+Senior Software Test Engineer / SDET
+●	Fully automated GUI testing with STIQ and Selenium IDE
+●	Automation code documentation and maintenance
+●	Bringing the automation up to date & building Ruby Watir / RSpec test framework
+●	Introducing and implementing Virtual Box strategy to enable continuous automated regression testing
+●	Technology used: STIQ, Selenium IDE, Ruby, (Watir, RSpec), Accurev (SCM)
+
+Array Health Inc., Seattle WA	01/2015 - 10/2015
+Senior Software Test Engineer
+●	Utilization of full Atlassian stack Jira, Stash, Confluence and Zephyr to achieve a hybrid Agile practice
+●	Documentation, software development sub-tasks and QA test cases and scenarios along with defect tracking were well integrated within a 2 week sprint cycle, resulting in better quality code and review, and overall significant improvement of deliverables
+●	Initiated dialogue with Data Operations to identify gaps in communication which resulted in a decrease in defects from new platform features due to outdated / inaccurate data
+●	Verified platform of both existing functionality (regression) and new functionality related to Ancillary products (Vision, Dental, Short and Long Term Disability, Term Life Insurance) and Enhanced Roles of administrator roles via Read Only permissions
+●	Researched and tested Piwik reporting for eCommerce Healthcare Shopping experience
+●	Performed data workshops for Data Operations to formulate high fidelity standardization of healthcare related plan XML, census, rates and contribution CSVs which were closer to production information, decreasing data churn
+●	Introduced Ruby Watir with multi browser and OS based GUI testing, and a key headless Phantom JS browser testing with automatic screen capture
+●	Led and organized company culture events including the Ditch Your Keys commuter challenge, Bike to Work Month (team captain), National Bike Challenge, and led the first inaugural charity event via the Great Cycle Challenge to help fight kids’ cancer
+
+Amdocs Inc.	04/2006-12/2014
+Senior Subject Matter Expert Quality Assurance, Bothell WA	08/2012 – 12/2014
+
+●	Provided QA & SDET expertise involving multiple OS, web browsers, tablet and smartphone testing solution to ensure a working, high quality website conforming to Acceptance Criteria outlined in Stories taken in 2-week Agile sprints
+●	Supported and tested the company wide push for accessibility testing on eCommerce platform to ensure FCC compliance
+●	Recognized amongst stakeholders as one of the most successful and visible pods delivering an enhanced website leading to greater customer satisfaction and usability rating
+●	Active participation during initial Story and Epic writing with the definition team, performed Scrum Master role as needed during stand-up meetings and sprint planning sessions
+●	Automation Coding in Java + Selenium framework, and contributed to Amdocs QA knowledge pool on testing tools and solutions unique to challenges (ex: hexadecimal color picker tool)
+●	Technology Used: Rally (for Agile), Android, iOS, Win8 Mobile, NVDA, JAWS, Colorzilla, Web Accessibility Toolbar (WAT)
+
+Sr. SME AT&T Amdocs OMS Production Support Seattle, WA 	09/2009-04/2012
+●	Developed text logger software to improve work efficiency as part of the LEAN I.T. Initiative (http://royyap-it.blogspot.com/2011/05/production-tool.html)
+●	Technology used: text logger, Toad & Oracle 9i SQL, XML, AutoIT
+
+
+Senior SME Testing and QA Engineer Chesterfield, MO	07/2008-09/2009
+●	Developed software tools used to conduct daily OMS testing in conjunction with LEAN I.T.:
+   ○	screen capture and automatic MS Word Document image compiler
+      ■	http://royyap-it.blogspot.com/2009/06/screen-capture-tool-version-15-user.html
+   ○	defect opener tool
+      ■	http://royyap-it.blogspot.com/2009/06/defectopenerusermanual.html
+
+Senior Subject Matter Expert, Triage Team Chesterfield, MO	07/2007-06/2008
+
+Senior SME, XSL Connector Development Team Chesterfield, MO	04/2006-06/2007
+●	Project: AT&T LightSpeed Project.
+●	Technology used: HP Mercury QC, Atlassian Jira, Ultra Edit, FTP, Altova XML Spy, XSLT, XSD, DTD, QTP, AutoIT
+
+TECHNICAL SKILLS
+●	Hardware and Operating Systems: Windows, MacOS, Linksys (CISCO), Belkin, 2Wire, Linux (Mandriva & Ubuntu)
+●	Programming Languages: AutoIT, MySQL, SQL, HTML, XML, XSLT, XSD, Android SDK, Ruby Watir
+●	Database: Open Office ODB, Oracle 9i with TOAD
+●	General Software: GitHub, TOAD, Microsoft Office, HP Mercury QTP & QC, MS Gif Animator, Irfanview, Guild FTP, MS IIS, VBA, VBScript, MS VB, JBuilder, Eclipse and J2EE, Altova XML Spy, SciTec, UltraEdit, EditPlus, Crimson Editor, Beyond Compare, KDiff (Kompare), Decision Tree, IBM Websphere, Apache (HTTP & PHP web server), Python
+
+
+EDUCATION & CERTIFICATIONS
+●	Master & Bachelor of Science in Engineering
+   ○	University of New Orleans, Louisiana
+●	HIPAA Awareness for Business Associates (Expiration: January 2019)
+
+
+RELATED INTERESTS
+●	Bringing my organization and fitness skills to help start / enhance existing company culture
+●	Organized a free computer troubleshooting event to help fundraise for a group participating in Susan G. Komen Race for the Cure
+●	Currently investigating and learning basic mobile application development for Android smartphone (Android SDK) along with Auto IT, Cypress.io Automation, BDD, Ruby Watir & RSpec automation, Python and other programming languages
