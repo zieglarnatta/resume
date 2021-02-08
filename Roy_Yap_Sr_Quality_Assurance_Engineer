@@ -3,13 +3,24 @@ http://www.linkedin.com/in/royyap1
 
 SENIOR SOFTWARE TEST ENGINEER
 
-●	Solutions-focused professional with 12+ years' experience in manual and automated software testing, GUI testing (mobile, tablet and desktop) and software production support – current focus: Gherkin, Cucumber, BDD Automation testing, JS, cypress.io GUI automation testing, utilization of LEAN and Agile methodologies
+●	Solutions-focused professional with 15+ years' experience in manual and automated software testing, GUI testing (mobile, tablet and desktop) and software production support – current focus: Gherkin, Cucumber, BDD Automation testing, JS, cypress.io GUI automation testing, utilization of LEAN and Agile methodologies
 ●	Experience using Open Source AutoIT program for rapid prototyping and development of customized software tools; Atlassian stack, HP Mercury's QTP testing and QC software suite; TOAD for oracle 9i, Altova's XML spy and a text data logger
 ●	Excels in problem-solving where building strong systematic methodologies and finding innovative solutions is supported
 
 WORK EXPERIENCE
 
-Welltok Inc., Seattle WA	03/2016 - Present
+Denali Advanced Integration, Redmond WA 04/2020 - Present
+●	Successfully assisting the team to help T-Mobile integrate and launch both Enterprise and Home Internet Gateway wireless modems
+●	Establishing Robot framework; automating both UI functional tests & SSH CLI configuration scripts on T-Mobile wireless modems
+●	MQTT broker JMeter performance testing
+●	TR-069 CLI UCI Restful automation regression testing
+
+Freelance / Independent Software Test Engineer, Seattle WA	09/2019 - 03/2020
+●	SDeT working on a custom Python & selenium automation
+●	JMeter stress testing and performance testing via LoadNinja
+●	Updating and fine tuning end to end Mabl automation testing
+
+Welltok Inc., Seattle WA	03/2016 - 08/2019
 Senior Quality Assurance Engineer
 ●	Cafewell Concierge Team: Testing Watson NLP with trained A.I. weights on Health Benefits Q&A, Natural Language Processing and overall integration with Cafewell SaaS and Concierge Mobile Application
 ●	Cafewell & Rewards Team: Ensuring that all 4 microservices (Cafewell, Munero, Achievement Service, Currency) are in concert to receive a reward upon achieving, Mobile Application testing
