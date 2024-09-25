@@ -3,17 +3,37 @@ http://www.linkedin.com/in/royyap1
 
 SENIOR SOFTWARE TEST ENGINEER
 
-●	Solutions-focused professional with 18+ years' experience in manual and automated software testing, GUI testing (mobile, tablet and desktop) and software production support – current focus: Gherkin, Cucumber, BDD Automation testing, JS, cypress.io GUI automation testing, utilization of LEAN and Agile methodologies
+●	Solutions-focused professional with 18+ years' experience in manual and automated software, firmware, hardware testing, GUI (mobile, tablet and desktop) & command line testing, accessibility testing, and software production support. Current focus:
+●	Python, Selenium, Robot Framework automation, Appium for mobile GUI testing, Arduino microcontroller, JMeter stress testing, Load Ninja, Gherkin, mabl, Cucumber, BDD Automation testing, cypress.io GUI automation testing, and utilization of LEAN / 		Agile methodologies.
 ●	Experience using Open Source AutoIT program for rapid prototyping and development of customized software tools; Atlassian stack, HP Mercury's QTP testing and QC software suite; TOAD for oracle 9i, Altova's XML spy and a text data logger
 ●	Excels in problem-solving where building strong systematic methodologies and finding innovative solutions is supported
 
 WORK EXPERIENCE
 
-Denali Advanced Integration, Redmond WA 04/2020 - Present
-●	Successfully assisting the team to help T-Mobile integrate and launch both Enterprise and Home Internet Gateway wireless modems
-●	Establishing Robot framework; automating both UI functional tests & SSH CLI configuration scripts on T-Mobile wireless modems
-●	MQTT broker JMeter performance testing
-●	TR-069 CLI UCI Restful automation regression testing
+Influence Mobile, Seattle WA 01/2024 - 09/2024
+Senior Quality Assurance Engineer / Software Developer in Test
+●	Established formal QA processes resulting in additional 60% test and feature coverage.
+●	Piloted Appium-Robot Framework to test flagship Android mobile application Play4 & Rewarded Play via localized automation and beginnings of AWS Device Farm testing.
+●	Initiated future roadmap for API and backend tests. 
+●	Reduction in development bugs by at least 45% due to early beta testing and helped formalize Agile story planning / grooming via 75% increase test scenario discovery in early QA test scenarios
+●	Helped support various anti-fraud measures put in place (hCaptcha, & internal player health scores) and successfully tested all these measures thoroughly to help stamp out fraudsters.
+●	Successfully launched 5 major new features for flagship Android apps in 10 successive major releases.
+
+Denali Advanced Integration, Redmond WA 04/2020 - 01/2024
+Senior Quality Assurance Engineer, SDeT / T-Mobile Hardware Test Team
+●	Independently developed test scenarios & steps in Q-Test for Tracker V2 mobile app integration.
+●	Introduced and streamlined 25% of manual test cases into automated tests via Robot Framework, reducing testing man hours by 20%
+●	Helped DevOps and overall team to increase code quality with CI/CD code gating tests via automated tests.
+●	Demonstrated & inspired the team to refine automation output logging for better management & technical audience visibility
+●	Hardware & firmware testing of T-Mobile’s IoT DevEdge & Tracker V2 encompassing GPS GNSS, WiFi, cellular, testing visible & infrared sensors, accelerometer, & temperature
+●	Documenting & baselining the QA build & onboarding process
+●	Successfully pioneered the Robot Framework automation initiative 
+●	Led the SDeT Team for the T-Mobile Home Internet Gateway test team
+●	Achieve approximately 70%+ in automated test coverage for: firmware integration, gateway hardware test, Home Internet administration pages, Askey & Incognito Automated Configuration System, various automation tests throughout the Customer Premise 
+	Equipment Autonomous Management Platform infrastructure
+●	JMeter load, stress, & performance testing of the T-Mobile Home Internet Gateway, Customer site & the newly established MQTT Broker (on AWS) to ensure up to 400 requests per minute
+●	Successfully mentoring 3 junior SDeTs, which helped the team push for an additional 40% of new automated test cases, saving at least 55% of testing personnel hours regression tests.
+●	Technologies used: IoT, Seger jLink firmware flash device, AWS Redshift, PostGreSQL, MQTT, JSON, TR-069 & 369 Telco specification, Python, Robot Framework, SSH, Raspberry Pi, & Selenium.
 
 Freelance / Independent Software Test Engineer, Seattle WA	09/2019 - 03/2020
 ●	SDeT working on a custom Python & selenium automation
