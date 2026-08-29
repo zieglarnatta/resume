@@ -9,7 +9,7 @@ Excels in problem-solving where building strong systematic methodologies and fin
 
 WORK EXPERIENCE
 
-Microsoft, Redmond WA	02/2026 – Present
+Microsoft, Redmond WA	02/2026 – 06/2026
 Software Design Engineer in Test (Contract via TekSystems)
 - Working on Windows security via authentication, particularly through initiatives like NTLM-less and Secure Future Initiative (SFI) work. 
 - Spinning up Active Directory Forests spanning various virtual Domain Controllers, Servers with IIS, SMB, SQL, Virtual Net, Datacenter, and various common services, and Enterprise Client machines which are domain joined.
@@ -19,7 +19,7 @@ Software Design Engineer in Test (Contract via TekSystems)
 - Technology utilized: PowerShell Scripts, C++, VS Code with Co-Pilot, GVFS (Git Virtual File System), Active Directory, Azure DevOps. 
 
 
-Amazon Leo, Redmond WA	10/2025 – Present
+Amazon Leo, Redmond WA	10/2025 – 02/2026
 Quality Assurance Engineer, Project Kuiper (Contract via Accenture / Experis)
 - Amazon Leo Customer Mobile app testing, revealing 40% critical UI/UX design misalignment with developed app
 - Amazon Leo Field technician mobile application testing, bringing up to speed and consolidating High Priority test case deliverables: inventory tracking, professional installation / deinstallation and repair activities.
@@ -61,7 +61,6 @@ SDeT III, EADG T-Mobile Home & Enterprise Internet team
 - Successfully mentoring 3 junior SDeTs to achieve even newer heights of knowledge and experience, which helped the whole team push for an additional 40% of new automated test cases, saving at least 55% of testing personnel hours of repetitive regression tests.
 - Technologies involved: MQTT, JSON, TR-069 & TR-369 Telecommunications specification, Python, Robot Framework, SSH, PostgreSQL, Redshift DB, Raspberry Pi, and Selenium.
 
-
 N/A, Seattle WA	09/2019 – 03/2020
 Independent Contractor Software Test Engineer
 - SDeT working on a custom Python & selenium automation
@@ -81,8 +80,6 @@ Senior Software Test Engineer / SDET
 - Bringing the automation up to date & building Ruby Watir / RSpec test framework
 - Introducing and implementing Virtual Box strategy to enable continuous automated regression testing
 - Technology used: STIQ, Selenium IDE, Ruby, (Watir, RSpec), Accurev (SCM)
-
-
 
 Array Health Inc., Seattle WA	01/2015 - 10/2015
 Senior Software Test Engineer
