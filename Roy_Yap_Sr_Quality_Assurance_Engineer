@@ -1,137 +1,112 @@
-Roy Yap
-http://www.linkedin.com/in/royyap1
+ROY YAP, SENIOR SOFTWARE DEVELOPER IN TEST ENGINEER 
+http://www.linkedin.com/in/royyap1 | https://github.com/zieglarnatta  http://royyap-it.blogspot.com
 
-SENIOR SOFTWARE DEVELOPER IN TEST ENGINEER 
 
-Solutions-focused professional with 19+ years' experience in manual and automated software, firmware, hardware testing, GUI (mobile, tablet and desktop) & command line testing, accessibility testing, and software production support. Current focus: A.I. for Test Automation, Python, Selenium, Robot Framework automation, Appium for mobile GUI testing, Arduino microcontroller, JMeter stress testing, Load Ninja, Gherkin, mabl, Cucumber, BDD Automation testing, cypress.io GUI automation testing, and utilization of LEAN / Agile methodologies.
-Experience using Open Source AutoIT program for rapid prototyping and development of customized software tools; Postman, Beekeeper & PostGres for Redshift DB, Atlassian stack, CA / Broadcom Rally, HP Mercury's QTP testing and QC software suite; TOAD for oracle 9i, Docker, Arduino IDE, Raspberry Pi, Altova's XML spy and a text data logger.
-Excels in problem-solving where building strong systematic methodologies and finding innovative solutions is supported.
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Developer in Test Engineer with over 20 years of experience in automated and manual testing across diverse platforms. Specialized in A.I. for Test Automation, leveraging Python, Selenium, and Robot Framework to enhance software reliability. Proven track record of reducing testing times and improving test coverage through innovative automation strategies. Expertise in Agile methodologies and BDD, consistently delivering high-quality solutions that meet and exceed KP 
+
+AREAS OF EXPERTISE
+Python                  Expert
+Selenium                Expert
+Test Automation         Expert
+Robot Framework         Expert
+API Testing             Advanced
+UI/UX Testing           Expert
+Problem Solving         Expert
+Team Collaboration      Expert
+Continuous Integration  Expert
+Agile Methodologies     Expert
+
+
 
 WORK EXPERIENCE
 
-Microsoft, Redmond WA	02/2026 – 06/2026
-Software Design Engineer in Test (Contract via TekSystems)
-- Working on Windows security via authentication, particularly through initiatives like NTLM-less and Secure Future Initiative (SFI) work. 
-- Spinning up Active Directory Forests spanning various virtual Domain Controllers, Servers with IIS, SMB, SQL, Virtual Net, Datacenter, and various common services, and Enterprise Client machines which are domain joined.
-- Utilizing, enhancing, and developing Microsoft's internal automation test framework that allows scenario-level testing cases for user authentication flow(s).
-- Creating and migrating automated test cases, executing them, troubleshooting failures, and supporting security-related initiatives under the Secure Future Initiative (SFI) to make Windows more secure by default.
-- Cutting down developer testing times from 4 hours to 1 hour / 75% time reduction
-- Technology utilized: PowerShell Scripts, C++, VS Code with Co-Pilot, GVFS (Git Virtual File System), Active Directory, Azure DevOps. 
+Software Design Engineer in Test (Contract via TekSystems) at Microsoft
+02/2026 – 06/2026
+Focused on Windows security through authentication initiatives, including NTLM-less and Secure Future Initiative (SFI). Established Active Directory Forests with virtual Domain Controllers, IIS, SMB, SQL, and enterprise client machines. Enhanced and developed an internal automation test framework for user authentication flows. Created and migrated automated test cases, executed troubleshooting, and supported SFI to improve Windows security.
+- Reduced developer testing times from 4 hours to 1 hour (75% reduction).
+- Utilized PowerShell, C++, VS Code with Co-Pilot, GVFS, Active Directory, and Azure DevOps.
+
+Quality Assurance Engineer, Project Kuiper (Contract via Experis) at Amazon Leo	
+10/2025 – 02/2026
+Conducted comprehensive testing on Amazon Leo Customer Mobile app, identifying 40% critical UI/UX design misalignment. Evaluated Field technician mobile application, streamlining high-priority test case deliverables for inventory tracking and repair activities. Redesigned Gherkin-based test cases, enhancing test coverage by 35%. Led proof of concept for STS-ADAM automation.
+- Identified critical UI/UX issues, improving app usability.
+- Consolidated test case deliverables, ensuring timely project execution.
+- Enhanced test coverage through strategic test case development.
+- Drove automation initiatives for increased efficiency.
 
 
-Amazon Leo, Redmond WA	10/2025 – 02/2026
-Quality Assurance Engineer, Project Kuiper (Contract via Accenture / Experis)
-- Amazon Leo Customer Mobile app testing, revealing 40% critical UI/UX design misalignment with developed app
-- Amazon Leo Field technician mobile application testing, bringing up to speed and consolidating High Priority test case deliverables: inventory tracking, professional installation / deinstallation and repair activities.
-- Rewriting and strategizing on Gherkin based test cases, increasing test coverage up to 35% 
-- P.O.C. STS-ADAM automation
+Software Developer in Test Engineer, Navigation & Discovery Team (Contract via TekSystems) at Amazon 
+10/2024 – 07/2025
+Developed and executed comprehensive testing strategies for API and GUI automation within Amazon's Navigation and Discovery Team. Enhanced reliability by fixing long-standing API test failures, significantly reducing failure rates from 13 to 2 and 18 to 7 across multiple test cases. Overhauled a legacy internal GUI automation tool, cutting manual testing time for 80 desktop test cases from 24 hours to 1.5 hours per region. Leveraged AI-driven frameworks to boost coding productivity for Mobile Web experiences.
+- Fixed API test failures, improving reliability across 151 and 199 total test calls.
+- Evangelised JSoup for improved API test response fidelity.
+- Rebuilt internal GUI automation tool, reducing test time significantly.
+- Utilised A.D.A.M., Cline, and Amazon Q A.I. to enhance coding efficiency.
 
-Amazon, Seattle WA	10/2024 – 07/2025
-Software Developer in Test Engineer, Navigation & Discovery Team (Contract via TekSystems)
-- Fixed 4 year old failing API tests (Orchestrator 13 fails down to 2 fails, out of 151 total API test calls, Cards 18 fails down to 7 fails, 199 total API test calls)
-- Helped to evangelize suggested JSoup for higher fidelity API test response
-- Replaced from ground up the 4 year old failing internal GUI automation tool with Store Test Service (S.T.S. internal Amazon GUI automation tool), reducing manual test time of 80 desktop test cases from 24 hours to 1.5 hours per global region / top level domain of Amazon Navigation
-- Utilizing internal A.D.A.M. (Amazon Diagnostics large Action Model, an A.I. based UI testing framework), Cline, and Amazon Q A.I. to help increase coding productivity, especially for Mobile Web experience 
-- Technologies Involved: Java, TestNG, Appium & Appium Inspector, Cline A.I., Amazon internal tools: Pipeline, Brazil builder, STS & ADAM
+Senior QA / Software Developer in Test Engineer at Influence Mobile	
+01/2024 – 10/2024
+Established formal QA processes, increasing test and feature coverage by 60%. Piloted Appium-Robot Framework for testing flagship Android applications Play4 & Rewarded Play, utilising localized automation and initiating AWS Device Farm testing. Reduced development bugs by 45% through early beta testing, enhancing Agile story planning with a 75% increase in test scenario discovery. Supported anti-fraud measures, thoroughly testing hCaptcha and internal player health scores.
+- Launched 5 major features across 10 successive releases.
+- Utilised technologies including Python, RobotFramework, Appium, and Appium Inspector.
 
-Influence Mobile, Seattle WA	01/2024 – 10/2024
-Senior QA / Software Developer in Test Engineer
-- Established formal QA processes resulting in additional 60% test and feature coverage.
-- Piloted Appium-Robot Framework to test flagship Android mobile application Play4 & Rewarded Play via localized automation and beginnings of AWS Device Farm testing.
-- Initiated future roadmap for API and backend tests. 
-- Reduction in development bugs by 45% with early beta testing and helped formalize Agile story planning / grooming via 75% increase test scenario discovery in early QA test scenarios
-- Helped support various anti-fraud measures put in place (hCaptcha, & internal player health scores) and successfully tested all these measures thoroughly to help stamp out fraudsters.
-- Successfully launched 5 major new features for flagship Android apps in 10 successive major releases.
-- Technologies Involved: Python, RobotFramework, Appium & Appium Inspector
+Senior Software Test Engineer, T-Mobile Hardware Test Team at Denali Advanced Integration	
+04/2020 – 01/2024
+Developed test scenarios and steps in Q-Test for Tracker V2 mobile app integration. Streamlined 25% of manual test cases into automated tests via Robot Framework, reducing testing man-hours by 20%. Enhanced code quality using CI/CD code gating tests through automation. Inspired SDeT team to improve automation output logging for better visibility. Conducted hardware and firmware testing for T-Mobile's IoT DevEdge and Tracker V2, covering various sensor tests.
+- Documented and baselined QA build and onboarding processes.
+- Engaged with technologies including JSON, IoT, Python, Robot Framework, SSH, Seger jLink firmware flash device, UART.
 
-Denali Advanced Integration, Redmond WA	03/2023 – 01/2024
-Senior Software Test Engineer, T-Mobile Hardware Test Team 
-- Independently developed test scenarios & steps in Q-Test for Tracker V2 mobile app integration.
-- Introduced and streamlined 25% of manual test cases into automated tests via Robot Framework, reducing testing man hours by 20%
-- Helped DevOps and overall team to increase code quality with CI/CD code gating tests via automated tests.
-- Demonstrated and inspired existing SDeT team to refine automation output logging for better visibility for both management and technical audience.
-- Hardware and firmware testing of T-Mobile’s cutting edge IoT DevEdge and Tracker V2 encompassing GPS GNSS, WiFi, cellular, sensor testing: visible and infrared spectrum, accelerometer, & temperature.
-- Assisting in documenting and baselining the QA build and onboarding process.
-- Technologies Involved: JSON, IoT, Python, Robot Framework, SSH, Seger jLink firmware flash device, UART.
+Software Test Engineer at Independent Contractor	
+09/2019 – 03/2020
+Developed and executed automated tests for software applications using Python and Selenium. Conducted stress and performance testing with JMeter and LoadNinja to ensure system reliability. Enhanced and optimized end-to-end automation testing processes using Mabl.
+- Designed comprehensive test cases to improve software quality.
+- Collaborated with development teams to identify and resolve defects efficiently.
+- Implemented continuous integration practices to streamline testing workflows.
 
-Denali Advanced Integration, Redmond WA	04/2020 – 03/2023
-SDeT III, EADG T-Mobile Home & Enterprise Internet team
-- Successfully pioneered the Robot Framework automation initiative and led the SDeT Team in the Denali EADG T-Mobile Home Internet Gateway test team to achieve approximately 70%+ in automated test coverage for: firmware integration, gateway hardware test, Home Internet GUI administration pages, Askey & Incognito Automated Configuration System (ACS), various automation tests throughout the Customer Premise Equipment Autonomous Management Platform (CAMP) infrastructure.
-- JMeter load, stress, and performance testing of the T-Mobile Home Internet Gateway, T-Mobile Customer site (CCP) and the newly established T-Mobile MQTT Broker (on AWS infrastructure) to ensure the ability to handle up to 400 requests per minute.
-- Successfully mentoring 3 junior SDeTs to achieve even newer heights of knowledge and experience, which helped the whole team push for an additional 40% of new automated test cases, saving at least 55% of testing personnel hours of repetitive regression tests.
-- Technologies involved: MQTT, JSON, TR-069 & TR-369 Telecommunications specification, Python, Robot Framework, SSH, PostgreSQL, Redshift DB, Raspberry Pi, and Selenium.
 
-N/A, Seattle WA	09/2019 – 03/2020
-Independent Contractor Software Test Engineer
-- SDeT working on a custom Python & selenium automation
-- JMeter stress testing and performance testing via LoadNinja
-- Updating and fine tuning end to end Mabl automation testing
+Senior Quality Assurance Lead Engineer & Business Analyst at Welltok Inc.
+03/2016 - 08/2019
+Led quality assurance efforts for Cafewell Concierge and Rewards teams, testing Watson NLP with trained A.I. weights for Health Benefits Q&amp;A and integrating with Cafewell SaaS and mobile applications. Ensured seamless functionality of four microservices, conducted business rules testing, and performed API and mobile application testing. Guided the transition to BDD and SAFE initiatives as a hybrid Business Analyst – QA Lead, steering developers in end-to-end BDD automation efforts.
+- Tested Watson NLP for Health Benefits Q&amp;A, enhancing user experience.
+- Ensured accurate reward accounting across four microservices, validating business rules.
+- Facilitated software demonstrations for stakeholders, showcasing key features.
+- Championed BDD and SAFE initiatives, improving development efficiency.
 
-Welltok Inc., Seattle WA	03/2016 - 08/2019
-Senior Quality Assurance Lead Engineer & Business Analyst 
-- Cafewell Concierge Team: Testing Watson NLP with trained A.I. weights on Health Benefits Q&A, Natural Language Processing and overall integration with Cafewell SaaS and Concierge Mobile Application, software demonstration
-- Cafewell & Rewards Team: Ensuring that all 4 microservices (Cafewell, Munero, Achievement Service, Currency) are in concert to receive a reward upon achieving, ensuring accurate accounting of rewards earned, business rules testing, Mobile Application testing, API testing, software demonstration, helping to transition the company to BDD & SAFE initiatives as a Business Analyst – QA Lead hybrid, guiding Developers on End to End BDD automation effort
-- Technology used: Ruby on Rails, Selenium, Bi-Frost custom automation framework, GitHub, DataBricks, IBM Watson NLP / A.I., Semaphore CI, POSTMAN, Xcode, Android studio SDK, Hockeyapp, Genymotion, Invision, Splunk, Browser Stack
+Senior Software Test Engineer / SDET at Symetra Financial
+11/2015 – 02/2016
+Executed comprehensive automated GUI testing using STIQ and Selenium IDE. Documented and maintained automation code to ensure clarity and efficiency. Updated automation processes while developing a Ruby Watir / RSpec test framework. Introduced and implemented a Virtual Box strategy to facilitate continuous automated regression testing.
+- Utilised STIQ and Selenium IDE for effective GUI testing.
+- Developed and maintained robust automation documentation.
+- Built and updated Ruby Watir / RSpec framework for enhanced testing.
+- Established Virtual Box strategy for seamless regression testing.
 
-Symetra Financial, Bellevue WA	11/2015 – 02/2016
-Senior Software Test Engineer / SDET
-- Fully automated GUI testing with STIQ and Selenium IDE
-- Automation code documentation and maintenance
-- Bringing the automation up to date & building Ruby Watir / RSpec test framework
-- Introducing and implementing Virtual Box strategy to enable continuous automated regression testing
-- Technology used: STIQ, Selenium IDE, Ruby, (Watir, RSpec), Accurev (SCM)
+Senior Software Test Engineer at Array Health Inc.
+01/2015 - 10/2015
+Utilised the full Atlassian stack (Jira, Stash, Confluence, Zephyr) to implement a hybrid Agile practice. Integrated documentation, software development sub-tasks, and QA test cases within a 2-week sprint cycle, enhancing code quality and overall deliverables. Initiated collaboration with Data Operations to address communication gaps, reducing defects from new platform features. Verified regression and new functionalities for Ancillary products and administrator roles, ensuring robust performance.
+- Conducted data workshops to standardise healthcare-related plan XML, census, rates, and contribution CSVs, minimising data churn.
+- Introduced Ruby Watir for multi-browser and OS GUI testing, employing headless Phantom JS for automated screen captures.
+- Organised company culture events, including the Ditch Your Keys commuter challenge and the inaugural charity event via the Great Cycle Challenge.
 
-Array Health Inc., Seattle WA	01/2015 - 10/2015
-Senior Software Test Engineer
-- Utilization of full Atlassian stack Jira, Stash, Confluence and Zephyr to achieve a hybrid Agile practice 
-- Documentation, software development sub-tasks and QA test cases and scenarios along with defect tracking were well integrated within a 2 week sprint cycle, resulting in better quality code and review, and overall significant improvement of deliverables
-- Initiated dialogue with Data Operations to identify gaps in communication which resulted in a decrease in defects from new platform features due to outdated / inaccurate data
-- Verified platform of both existing functionality (regression) and new functionality related to Ancillary products (Vision, Dental, Short and Long Term Disability, Term Life Insurance) and Enhanced Roles of administrator roles via Read Only permissions
-- Performed data workshops for Data Operations to formulate high fidelity standardization of healthcare related plan XML, census, rates and contribution CSVs which were closer to production information, decreasing data churn
-- Introduced Ruby Watir with multi browser and OS based GUI testing, and a key headless Phantom JS browser testing with automatic screen capture
-- Led and organized company culture events including the Ditch Your Keys commuter challenge, Bike to Work Month (team captain), National Bike Challenge, and led the first inaugural charity event via the Great Cycle Challenge to help fight kids’ cancer
-
-Amdocs Inc., Bothell WA	08/2012 – 12/2014
-Senior Subject Matter Expert Quality Assurance	
-- Provided QA & SDET expertise involving multiple OS, web browsers, tablet and smartphone testing solution to ensure a working, high quality website conforming to Acceptance Criteria outlined in User Stories taken in 2-week Agile sprints
-- Supported and tested the company wide push for accessibility testing on eCommerce platform to ensure FCC compliance
-- Recognized amongst stakeholders as one of the most successful and visible pods delivering an enhanced website leading to greater customer satisfaction and usability rating
-- Active participation during initial Story and Epic writing with the definition team, performed Scrum Master role as needed during stand-up meetings and sprint planning sessions
-- Automation Coding in Java + Selenium framework, and contributed to Amdocs QA knowledge pool on testing tools and solutions unique to challenges (ex: hexadecimal color picker tool)
-- Technology Used: Rally (for Agile), Android, iOS, Win8 Mobile, NVDA, JAWS, Colorzilla, Web Accessibility Toolbar (WAT)
-
-Amdocs Inc., Seattle WA	09/2009 - 04/2012
-Sr. SME AT&T Amdocs OMS Production Support
-- Developed text logger software to improve work efficiency as part of the LEAN I.T. Initiative (http://royyap-it.blogspot.com/2011/05/production-tool.html)
-- Technology used: text logger, Toad & Oracle 9i SQL, XML, AutoIT
-
-Amdocs Inc., Chesterfield, MO	07/2008 - 09/2009
-Senior SME Testing and QA Engineer
-- Developed software tools used to conduct daily OMS testing in conjunction with LEAN I.T.:
-- screen capture and automatic MS Word Document image compiler: http://royyap-it.blogspot.com/2009/06/screen-capture-tool-version-15-user.html
-- defect opener tool: http://royyap-it.blogspot.com/2009/06/defectopenerusermanual.html
-
-Amdocs Inc., Chesterfield, MO	07/2007 - 06/2008
-Production Triage Team
-- Tier 3 Production support, Ordering Management System bug triage and order fixing
-- Amdocs Inc., Chesterfield, MO	04/2006 - 06/2007
-- Senior SME, XSL Connector Development Team
-- Project: AT&T LightSpeed Project.
-- Technology used: HP Mercury QC, Atlassian Jira, Ultra Edit, FTP, Altova XML Spy, XSLT, XSD, DTD, QTP, AutoIT
+Senior Subject Matter Expert Quality Assurance at Amdocs Inc.
+04/2006-12/2014
+Provided QA and SDET expertise across multiple operating systems and devices, ensuring high-quality website performance aligned with Acceptance Criteria from User Stories in Agile sprints. Supported accessibility testing for the eCommerce platform, guaranteeing FCC compliance. Recognised by stakeholders as part of a successful team enhancing website usability and customer satisfaction. Participated in Story and Epic writing, performed Scrum Master duties, and led automation coding in Java with Selenium. Contributed to Amdocs' QA knowledge pool on unique testing challenges.
+- Ensured rigorous testing across web browsers, tablets, and smartphones.
+- Championed accessibility initiatives, enhancing compliance and user experience.
+- Spearheaded automation efforts, improving testing efficiency and coverage.
+- Collaborated with cross-functional teams to define project requirements.
 
 TECHNICAL SKILLS
-- Hardware / firmware and Operating Systems: Windows, MacOS, Linux (Mandriva & Ubuntu), Linksys (CISCO), Belkin, 2Wire, OpenWRT
-- Programming Languages: RobotFramework, Python, AutoIT, MySQL, SQL, HTML, XML, XSLT, XSD, Android SDK, Ruby Watir
-- Database: PostGRESql, Beekeper for RedShift AWS DB, Open Office ODB, Oracle 9i with TOAD
-- General Software:Pycharm IDE, Arduino IDE, AWS, Docker, GitHub, Robot Framework, JMeter, Load Ninja, mabl, cypress.io, Semaphore CI, Jenkins, TOAD, Microsoft Office, HP Mercury QTP & QC, MS Gif Animator, Irfanview, Guild FTP, MS IIS, VBA, VBScript, MS VB, JBuilder, Eclipse and J2EE, Altova XML Spy, SciTec, UltraEdit, EditPlus, Crimson Editor, ATOM, Sublime, Beyond Compare, KDiff (Kompare), Decision Tree, IBM Websphere, Apache (HTTP & PHP web server)
+Hardware / firmware and Operating Systems: Windows, MacOS, Linux (Mandriva & Ubuntu), Linksys (CISCO), Belkin, 2Wire, OpenWRT
+Programming Languages: RobotFramework, Python, AutoIT, MySQL, SQL, HTML, XML, XSLT, XSD, Android SDK, Ruby Watir
+Database: PostGRESql, Beekeper for RedShift AWS DB, Open Office ODB, Oracle 9i with TOAD
+General Software:Pycharm IDE, Arduino IDE, AWS, Docker, GitHub, Robot Framework, JMeter, Load Ninja, mabl, cypress.io, Semaphore CI, Jenkins, TOAD, Microsoft Office, HP Mercury QTP & QC, MS Gif Animator, Irfanview, Guild FTP, MS IIS, VBA, VBScript, MS VB, JBuilder, Eclipse and J2EE, Altova XML Spy, SciTec, UltraEdit, EditPlus, Crimson Editor, ATOM, Sublime, Beyond Compare, KDiff (Kompare), Decision Tree, IBM Websphere, Apache (HTTP & PHP web server)
 
 EDUCATION & CERTIFICATIONS
-- Master & Bachelor of Science in Engineering
-- University of New Orleans, Louisiana
-- HIPAA Awareness for Business Associates (Expiration: January 2020)
+Master & Bachelor of Science in Engineering
 
 RELATED INTERESTS
-- Researching on rapid growth plants and efficient oxygen producing plants as a complimentary solution to renewable energy initiatives https://royyap-biodiesel.blogspot.com/2019/07/using-plants-phytoplankton-to-absorb-co2.html
-- Bringing my organization and fitness skills to help start / enhance existing company culture
-- Organized a free computer troubleshooting event to help fundraise for a group participating in Susan G. Komen Race for the Cure
-- Currently investigating and learning basic Arduino microcontroller development, Raspberry Pi & Raspbian, mobile application development for Android smartphone (Android SDK), Auto IT, Ruby Watir & RSpec automation, Python, GO and other programming languages
+Researching on rapid growth plants and efficient oxygen producing plants as a complimentary solution to renewable energy initiatives https://royyap-biodiesel.blogspot.com/2019/07/using-plants-phytoplankton-to-absorb-co2.html
+Bringing my organization and fitness skills to help start / enhance existing company culture
+Organized a free computer troubleshooting event to help fundraise for a group participating in Susan G. Komen Race for the Cure
+Currently investigating and learning basic Arduino microcontroller development, Raspberry Pi & Raspbian, mobile application development for Android smartphone (Android SDK), Auto IT, Ruby Watir & RSpec automation, Python, GO and other programming languages
